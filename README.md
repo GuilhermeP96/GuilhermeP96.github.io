@@ -8,4 +8,4 @@ Tema claro/escuro, layout responsivo e navegação acessível. Sem coleta de dad
 GitHub Pages: branch `main`, pasta `/`, publicação nativa. Não usa domínio personalizado.
 Validação: Playwright Chromium desktop/celular, axe WCAG A/AA nos dois temas, destinos dos links, tema persistente e capturas visuais. O harness local fica no repositório Academy; não é necessário para servir o site.
 
-Não contém código, dados, configurações ou detalhes internos do IRobot-Not. O link leva à demonstração didática pública da Academy.
+Contém somente MCPs públicos, projetos públicos e a apresentação genérica IRobot-Not com simulação fictícia. Não contém código, dados, configurações ou detalhes internos do IRobot-Not. A Academy para assinantes é um site separado em https://academy.datano.com.br, mantido em repositório privado.
